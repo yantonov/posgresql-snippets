@@ -25,4 +25,5 @@ References:
 4. [pg-ts-dict](https://www.postgresql.org/docs/current/catalog-pg-ts-dict.html)
 5. [pg-ts-parser](https://www.postgresql.org/docs/current/catalog-pg-ts-parser.html)
 6. [pg-ts-template](https://www.postgresql.org/docs/current/catalog-pg-ts-template.html)
-4. [textsearch-psql](https://www.postgresql.org/docs/current/textsearch-psql.html)
+7. [ts_token_type](https://www.postgresql.org/docs/current/textsearch-debugging.html)
+8. [textsearch-psql](https://www.postgresql.org/docs/current/textsearch-psql.html)
